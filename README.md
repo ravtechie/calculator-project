@@ -21,4 +21,4 @@ A fully functional calculator built with HTML, CSS, and JavaScript.
 - Vanilla JavaScript
 
 ## Live Demo
-[View Calculator](https://YOUR_USERNAME.github.io/calculator-project)
+[View Calculator](https://ravtechie.github.io/calculator-project)
